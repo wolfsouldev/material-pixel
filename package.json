@@ -4,14 +4,13 @@
   "description": "Un tema de iconos pixel art personalizado para VS Code",
   "publisher": "material-pixel-dev",
   "version": "0.0.1",
+  "icon": "icons/astro.png",
   "engines": {
     "vscode": "^1.105.0"
   },
   "categories": [
     "Themes"
   ],
-  "activationEvents": [],
-  "main": "./out/extension.js",
   "contributes": {
     "iconThemes": [
       {
