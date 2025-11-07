@@ -1,8 +1,8 @@
 {
-  "name": "material-pixel",
-  "displayName": "Material Pixel Icons",
+  "name": "jerrys-pixel-icons",
+  "displayName": "Jerry's Pixel Icons",
   "description": "Un tema de iconos pixel art personalizado para VS Code",
-  "publisher": "material-pixel-dev",
+  "publisher": "Melissa Gutierrez",
   "version": "0.0.1",
   "icon": "icons/logo.png",
   "engines": {
@@ -14,8 +14,8 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "material-pixel",
-        "label": "Material Pixel",
+        "id": "jerrys-pixel",
+        "label": "Jerry's Pixel",
         "path": "./themes/icon-theme.json"
       }
     ]
