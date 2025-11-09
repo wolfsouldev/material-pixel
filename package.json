@@ -2,12 +2,13 @@
   "name": "jerrys-pixel-icons",
   "displayName": "Jerry's Pixel Icons",
   "description": "Un tema de iconos pixel art personalizado para VS Code",
-  "publisher": "melisapo",
+  "publisher": "MelissaGutierrez",
   "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/wolfsouldev/jerrys-pixel-icons.git"
   },
+  
   "engines": {
     "vscode": "^1.105.0"
   },
