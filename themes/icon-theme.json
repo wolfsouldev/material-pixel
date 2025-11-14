@@ -3,6 +3,7 @@
     "_file": { "iconPath": "../icons/files/txt.png" },
     "_folder": { "iconPath": "../icons/folders/folder.png" },
     "_folder_open": { "iconPath": "../icons/folders/folder-open.png" },
+    "astro":{"iconPath": "../icons/files/astro.png"},
     "js": { "iconPath": "../icons/files/js.png" },
     "ts": { "iconPath": "../icons/files/ts.png" },
     "html": { "iconPath": "../icons/files/html.png" },
@@ -94,9 +95,9 @@
     "themes": {"iconPath": "../icons/folders/themes.png"},
     "themes_open": {"iconPath": "../icons/folders/themes-open.png"},
     "debug": {"iconPath": "../icons/folders/debug.png"},
-    "debug_open": {"iconPath": "../icons/folders/debug_open.png"},
+    "debug_open": {"iconPath": "../icons/folders/debug-open.png"},
     "models": {"iconPath": "../icons/folders/models.png"},
-    "models_open": {"iconPath": "../icons/folders/models_open.png"},
+    "models_open": {"iconPath": "../icons/folders/models-open.png"},
     "node_modules": {"iconPath": "../icons/folders/node_modules.png"},
     "node_modules_open": {"iconPath": "../icons/folders/node_modules-open.png"},
     "properties": {"iconPath": "../icons/folders/properties.png"},
@@ -104,7 +105,7 @@
     "services": {"iconPath": "../icons/folders/services.png"},
     "services_open": {"iconPath": "../icons/folders/services-open.png"},
     "utils": {"iconPath": "../icons/folders/utils.png"},
-    "utils_open": {"iconPath": "../icons/folders/utils_open.png"},
+    "utils_open": {"iconPath": "../icons/folders/utils-open.png"},
     "content":{"iconPath": "../icons/folders/content.png"},
     "content_open":{"iconPath": "../icons/folders/content-open.png"}
   },
@@ -112,6 +113,7 @@
   "folder": "_folder",
   "folderExpanded": "_folder_open",
   "fileExtensions": {
+    "astro":"astro",
     "js": "js",
     "mjs": "js",
     "cjs": "js",
@@ -228,10 +230,11 @@
     "tailwind.config.ts": "tailwind",
     "schema.prisma": "prisma",
     ".prettierrc":"prettier",
-    ".prittierignore":"prettier",
+    ".prettierignore":"prettier",
     "eslint.config.js":"eslint",
     "favicon.ico":"favicon",
-    "robots.txt":"robot"
+    "robots.txt":"robot",
+    "astro.config.js":"astro"
   },
   "folderNames": {
     "src": "src",
