@@ -61,7 +61,8 @@
     "eslint":{"iconPath": "../icons/files/eslint.png"},
     "node2":{"iconPath": "../icons/files/node2.png"},
     "prettier":{"iconPath": "../icons/files/prettier.png"},
-
+    "favicon":{"iconPath": "../icons/files/favicon.png"},
+    "robot":{"iconPath": "../icons/files/robot.png"},
     
     // Folder Icons
     "assets":{"iconPath": "../icons/folders/assets.png"},
@@ -104,7 +105,8 @@
     "services_open": {"iconPath": "../icons/folders/services-open.png"},
     "utils": {"iconPath": "../icons/folders/utils.png"},
     "utils_open": {"iconPath": "../icons/folders/utils_open.png"},
-
+    "content":{"iconPath": "../icons/folders/content.png"},
+    "content_open":{"iconPath": "../icons/folders/content-open.png"}
   },
   "file": "_file",
   "folder": "_folder",
@@ -227,7 +229,9 @@
     "schema.prisma": "prisma",
     ".prettierrc":"prettier",
     ".prittierignore":"prettier",
-    "eslint.config.js":"eslint"
+    "eslint.config.js":"eslint",
+    "favicon.ico":"favicon",
+    "robots.txt":"robot"
   },
   "folderNames": {
     "src": "src",
@@ -254,7 +258,8 @@
     "models":"models",
     "properties":"properties",
     "services":"services",
-    "utils":"utils"
+    "utils":"utils",
+    "content":"content"
 
   },
   "folderNamesExpanded": {
@@ -282,6 +287,7 @@
     "models":"models_open",
     "properties":"properties_open",
     "services":"services_open",
-    "utils":"utils_open"
+    "utils":"utils_open",
+    "content":"content_open"
   }
 }
