@@ -201,6 +201,7 @@
     "yarn.lock": "yarn",
     "pnpm-lock.yaml": "pnpm",
     "bun.lockb": "bun",
+    "bun.lock": "bun",
     ".env": "env",
     ".env.local": "env",
     ".env.development": "env",
@@ -249,7 +250,7 @@
     ".vscode": "vscode_file",
     "assets": "assets",
     "public": "public",
-    "static": "_folder",
+    "static": "assets",
     "components": "components",
     "controllers": "controller",
     "bin":"bin",
@@ -259,6 +260,7 @@
     "layouts":"layouts",
     "layout":"layouts",
     "pages":"pages",
+    "views":"pages",
     "styles":"styles",
     "style":"styles",
     "icons":"icons",
@@ -270,8 +272,6 @@
     "utils":"utils",
     "content":"content",
     "contents":"content"
-
-
   },
   "folderNamesExpanded": {
     "src": "src_open",
@@ -282,7 +282,7 @@
     ".vscode": "vscode_open",
     "assets": "assets_open",
     "public": "public_open",
-    "static": "_folder_open",
+    "static": "assets_open",
     "components": "components_open",
     "controllers": "controller_open",
     "bin":"bin_open",
