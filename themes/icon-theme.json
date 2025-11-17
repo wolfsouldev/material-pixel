@@ -65,6 +65,7 @@
     "favicon":{"iconPath": "../icons/files/favicon.png"},
     "robot":{"iconPath": "../icons/files/robot.png"},
     "vscode":{"iconPath":"../icons/files/vscode.png"},
+    "router":{"iconPath": "../icons/files/route.png"},
     
     // Folder Icons
     "assets":{"iconPath": "../icons/folders/assets.png"},
@@ -108,7 +109,18 @@
     "utils": {"iconPath": "../icons/folders/utils.png"},
     "utils_open": {"iconPath": "../icons/folders/utils-open.png"},
     "content":{"iconPath": "../icons/folders/content.png"},
-    "content_open":{"iconPath": "../icons/folders/content-open.png"}
+    "content_open":{"iconPath": "../icons/folders/content-open.png"},
+    "api":{"iconPath": "../icons/folders/api.png"},
+    "api_open":{"iconPath": "../icons/folders/api-open.png"},
+    "config_folder":{"iconPath": "../icons/folders/config.png"},
+    "config_folder_open":{"iconPath": "../icons/folders/config-open.png"},
+    "env_folder":{"iconPath": "../icons/folders/env.png"},
+    "env_folder_open":{"iconPath": "../icons/folders/env-open.png"},
+    "middleware":{"iconPath": "../icons/folders/middleware.png"},
+    "middleware_open":{"iconPath": "../icons/folders/middleware-open.png"},
+    "routes":{"iconPath": "../icons/folders/routes.png"},
+    "routes_open":{"iconPath": "../icons/folders/routes-open.png"},
+
   },
   "file": "_file",
   "folder": "_folder",
@@ -185,7 +197,15 @@
     "avi": "vid",
     "webm": "vid",
     "mp3": "aud",
-    "info":"readme"
+    "info":"readme",
+    "*route*":"route",
+    "*router.*":"route",
+    "*routes.*":"route",
+    "routes.*":"route",
+    "*Router.*":"route",
+    "*routing.*":"route",
+    "*urls.*":"route",
+    "*navigation.*":"route"
   },
   "fileNames": {
     "Dockerfile": "docker",
@@ -239,7 +259,7 @@
     "robots.txt":"robot",
     "astro.config.js":"astro",
     "astro.config.mjs":"astro",
-    "*.vscode*":"vscode"
+    "*.vscode*":"vscode",
   },
   "folderNames": {
     "src": "src",
@@ -271,7 +291,13 @@
     "services":"services",
     "utils":"utils",
     "content":"content",
-    "contents":"content"
+    "contents":"content",
+    "api":"api",
+    "config":"config_folder",
+    "env":"env_folder",
+    ".env":"env_folder",
+    "middleware":"middleware",
+    "routes":"routes"
   },
   "folderNamesExpanded": {
     "src": "src_open",
@@ -299,6 +325,12 @@
     "properties":"properties_open",
     "services":"services_open",
     "utils":"utils_open",
-    "content":"content_open"
+    "content":"content_open",
+    "api":"api_open",
+    "config":"config_folder_open",
+    "env":"env_folder_open",
+    ".env":"env_folder_open",
+    "middleware":"middleware_open",
+    "routes":"routes_open"
   }
 }
