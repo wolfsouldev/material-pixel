@@ -124,7 +124,14 @@
     "docs_open":{"iconPath": "../icons/folders/docs-open.png"},
     "test":{"iconPath": "../icons/folders/test.png"},
     "test_open":{"iconPath": "../icons/folders/test-open.png"},
-
+    "constants":{"iconPath": "../icons/folders/constants.png"},
+    "constants_open":{"iconPath": "../icons/folders/constants-open.png"},
+    "examples":{"iconPath": "../icons/folders/examples.png"},
+    "examples_open":{"iconPath": "../icons/folders/examples-open.png"},
+    "hooks":{"iconPath": "../icons/folders/hooks.png"},
+    "hooks_open":{"iconPath": "../icons/folders/hooks-open.png"},
+    "lib":{"iconPath": "../icons/folders/lib.png"},
+    "lib_open":{"iconPath": "../icons/folders/lib-open.png"}
   },
   "file": "_file",
   "folder": "_folder",
@@ -305,7 +312,12 @@
     "docs":"docs",
     "tests":"test",
     "spec":"test",
-    "cypress":"test"
+    "cypress":"test",
+    "constant":"constants",
+    "constants":"constants",
+    "examples":"examples",
+    "hooks":"hooks",
+    "lib":"lib"
   },
   "folderNamesExpanded": {
     "src": "src_open",
@@ -345,6 +357,11 @@
     "docs":"docs_open",
     "tests":"test_open",
     "spec":"test_open",
-    "cypress":"test_open"
+    "cypress":"test_open",
+    "constant":"constants_open",
+    "constants":"constants_open",
+    "examples":"examples_open",
+    "hooks":"hooks_open",
+    "lib":"lib_open"
   }
 }
