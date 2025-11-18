@@ -63,7 +63,7 @@
     "node2":{"iconPath": "../icons/files/node2.png"},
     "prettier":{"iconPath": "../icons/files/prettier.png"},
     "favicon":{"iconPath": "../icons/files/favicon.png"},
-    "robot":{"iconPath": "../icons/files/robot.png"},
+    "robot":{"iconPath": "../icons/files/robot.svg"},
     "vscode":{"iconPath":"../icons/files/vscode.png"},
     "router":{"iconPath": "../icons/files/route.png"},
     "zig": { "iconPath": "../icons/files/zig.png" },
