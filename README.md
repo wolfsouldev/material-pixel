@@ -96,7 +96,7 @@ Any contributions you make are **greatly appreciated**.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
+★ If you want to contribute an icon, just make sure it's a 16x16 PNG.
 
 <!-- LICENSE -->
 ## License
