@@ -6,6 +6,7 @@
     "astro":{"iconPath": "../icons/files/astro.png"},
     "js": { "iconPath": "../icons/files/js.png" },
     "ts": { "iconPath": "../icons/files/ts.png" },
+    "tsconfig": { "iconPath": "../icons/files/tsconfig.png" },
     "html": { "iconPath": "../icons/files/html.png" },
     "css": { "iconPath": "../icons/files/css.png" },
     "sass": { "iconPath": "../icons/files/sass.png" },
@@ -17,6 +18,7 @@
     "cpp": { "iconPath": "../icons/files/cpp.png" },
     "c": { "iconPath": "../icons/files/c.png" },
     "cs": { "iconPath": "../icons/files/cs.png" },
+    "h":{"iconPath": "../icons/files/h.png"},
     "php": { "iconPath": "../icons/files/php.png" },
     "go": { "iconPath": "../icons/files/go.png" },
     "rust": { "iconPath": "../icons/files/rust.png" },
@@ -67,6 +69,7 @@
     "vscode":{"iconPath":"../icons/files/vscode.png"},
     "router":{"iconPath": "../icons/files/route.png"},
     "zig": { "iconPath": "../icons/files/zig.png" },
+    "vsix": { "iconPath": "../icons/files/vsix.png" },
     
     // Folder Icons
     "assets":{"iconPath": "../icons/folders/assets.svg"},
@@ -164,7 +167,7 @@
     "cxx": "cpp",
     "cc": "cpp",
     "c": "c",
-    "h": "c",
+    "h": "h",
     "cs": "cs",
     "php": "php",
     "go": "go",
@@ -219,7 +222,8 @@
     "*urls.*":"route",
     "*navigation.*":"route",
     "zig": "zig",
-    "zon": "zig"
+    "zon": "zig",
+    "vsix":"vsix"
   },
   "fileNames": {
     "Dockerfile": "docker",
@@ -276,6 +280,7 @@
     ".vscodeignore":"vscode",
     ".vscode-test.mjs":"vscode",
     ".vscode-test.js":"vscode",
+    "tsconfig.json":"tsconfig"
   },
   "folderNames": {
     "src": "src",
