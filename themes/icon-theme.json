@@ -15,6 +15,7 @@
     "md": { "iconPath": "../icons/files/md.png" },
     "py": { "iconPath": "../icons/files/py.png" },
     "java": { "iconPath": "../icons/files/java.png" },
+    "javaclass": { "iconPath": "../icons/files/javaclass.png" },
     "cpp": { "iconPath": "../icons/files/cpp.png" },
     "c": { "iconPath": "../icons/files/c.png" },
     "cs": { "iconPath": "../icons/files/cs.png" },
@@ -70,8 +71,14 @@
     "router":{"iconPath": "../icons/files/route.png"},
     "zig": { "iconPath": "../icons/files/zig.png" },
     "vsix": { "iconPath": "../icons/files/vsix.png" },
-    "vsix": { "iconPath": "../icons/files/vsix.png" },
+    "http": { "iconPath": "../icons/files/http.png" },
     "vs": { "iconPath": "../icons/files/vs.png" },
+    "conf":{"iconPath": "../icons/files/conf.png"},
+    "docx":{"iconPath": "../icons/files/docx.png"},
+    "xlsx":{"iconPath": "../icons/files/xlsx.png"},
+    "ruby":{"iconPath": "../icons/files/ruby.png"},
+    "pptx":{"iconPath": "../icons/files/pptx.png"},
+    "ini":{"iconPath": "../icons/files/ini.png"},
     
     // Folder Icons
     "assets":{"iconPath": "../icons/folders/assets.svg"},
@@ -164,7 +171,7 @@
     "pyw": "py",
     "pyi": "py",
     "java": "java",
-    "class": "java",
+    "class": "javaclass",
     "cpp": "cpp",
     "cxx": "cpp",
     "cc": "cpp",
@@ -227,7 +234,13 @@
     "zon": "zig",
     "vsix":"vsix",
     "csproj":"vs",
-    "http":"http"
+    "http":"http",
+    "conf":"conf",
+    "docx":"docx",
+    "xlsx":"xlsx",
+    "rb":"ruby",
+    "pptx":"pptx",
+    "ini":"ini"
   },
   "fileNames": {
     "Dockerfile": "docker",
